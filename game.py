@@ -15,4 +15,4 @@ elif human_turn == 'akmens' and computer_turn == 'papīrs':
 elif human_turn == 'šķēres' and computer_turn == 'akmens':
     print("viņš čīto\n"*20) 
 else :
-    print("gg ez\n"*20) 
+    print("gg ez, tas bija viegli\n"*20) 
